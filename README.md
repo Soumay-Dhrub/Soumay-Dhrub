@@ -39,29 +39,6 @@ Final-year **B.Tech CSE** student with internship experience, actively preparing
 
 ---
 
-### 🚀 Featured Projects
-
-| # | Project                         | Description                                        | Tech Stack                  |
-| - | ------------------------------- | -------------------------------------------------- | --------------------------- |
-| 1 | 🛍️ Storewise Web Platform      | Authentication, admin/user dashboards, scalable UI | React, Tailwind, Keycloak   |
-| 2 | 🔐 Secure Auth System           | Mobile-first login/signup with OAuth & JWT         | Next.js, Tailwind, NextAuth |
-| 3 | 📊 Internship Dashboard Modules | Production-ready dashboards & forms                | React, CSS Modules          |
-| 4 | 🤖 Mini RAG Chatbot (Learning)  | Document-based Q&A using LLM basics                | Python, MongoDB             |
-| 5 | 🌐 Personal Portfolio           | Clean, responsive portfolio                        | HTML, CSS, JavaScript       |
-
-👉 More projects: [https://github.com/soumaydhruv?tab=repositories](https://github.com/soumaydhruv?tab=repositories)
-
----
-
-### 🏆 Certifications
-
-* Google Cloud – Introduction to Large Language Models
-* MongoDB University – MongoDB & RAG Applications
-* IBM – Full Stack Web Development & JavaScript
-* NPTEL – Advanced Python & Data Analytics
-* EC-Council – Ethical Python Programming
-
----
 
 ### 📊 GitHub Stats
 <div align="center">
